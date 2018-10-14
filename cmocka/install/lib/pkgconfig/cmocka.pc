@@ -1,0 +1,6 @@
+Name: cmocka
+Description: The cmocka unit testing library
+Version: 1.1.1
+Libs: -L/home/houssem/tp_noté_c/ArbreAVL/cmocka-1.1.1/install/lib -lcmocka
+Cflags: -I/home/houssem/tp_noté_c/ArbreAVL/cmocka-1.1.1/install/include
+
